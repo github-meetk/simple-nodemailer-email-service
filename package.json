@@ -1,0 +1,27 @@
+{
+  "name": "simple-nodemailer-email-service",
+  "version": "1.0.0",
+  "description": "It is used to send email easily with nodemailer ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github-meetk/simple-nodemailer-email-service.git"
+  },
+  "keywords": [
+    "email-service",
+    "email"
+  ],
+  "author": "Meet Kalathiya",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/github-meetk/simple-nodemailer-email-service/issues"
+  },
+  "homepage": "https://github.com/github-meetk/simple-nodemailer-email-service#readme",
+  "dependencies": {
+    "nodemailer": "^6.9.10"
+  }
+}
