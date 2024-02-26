@@ -1,5 +1,5 @@
 # simple-nodemailer-email-service
-It is an Package to send email easily with nodemailer on any mern website.
+It is a Package to simply send email with just few lines of codes.
 
 ## INSTALLING
 
