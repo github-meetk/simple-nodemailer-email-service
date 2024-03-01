@@ -7,7 +7,7 @@ It is a Package to simply send email with just few lines of codes.
     
 ## What it is used for?
 
-- It is used to simply write send email logic directly on your website.
+- It is used to simply write send email logic directly on your node.js file.
 
 ## Benefits
 
